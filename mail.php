@@ -35,7 +35,7 @@ if(isset($_POST["send"])){
   "
   <script>
   alert('Sent Successfully');
-  document.location.href = 'webform.php';
+  document.location.href = 'index.php';
   </script>
   ";
 }
